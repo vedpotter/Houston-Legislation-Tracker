@@ -1,0 +1,87 @@
+{
+  "name": "Houston Legislation Tracker",
+  "shortName": "HLT",
+  "tagline": "Tracking the laws shaping Houston.",
+  "description": "We track Texas and Houston-area legislation that affects students and young people, explain what it does, and follow what happens next.",
+  "url": "https://your-site-name.vercel.app",
+  "contactEmail": "",
+  "social": [
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/YOUR_HANDLE",
+      "placeholder": true
+    },
+    {
+      "platform": "TikTok",
+      "url": "https://www.tiktok.com/@YOUR_HANDLE",
+      "placeholder": true
+    },
+    {
+      "platform": "X",
+      "url": "https://x.com/YOUR_HANDLE",
+      "placeholder": true
+    },
+    {
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/@YOUR_HANDLE",
+      "placeholder": true
+    }
+  ],
+  "topics": [
+    {
+      "slug": "education",
+      "name": "Education",
+      "description": "Curriculum, school policy, funding, and what happens inside Texas classrooms."
+    },
+    {
+      "slug": "student-rights",
+      "name": "Student Rights",
+      "description": "Laws that shape what students and their families can do, say, and expect at school."
+    },
+    {
+      "slug": "voting-elections",
+      "name": "Voting & Elections",
+      "description": "Registration, ballots, and how young people take part in elections."
+    },
+    {
+      "slug": "criminal-justice",
+      "name": "Criminal Justice",
+      "description": "Policing, courts, and how the justice system treats young people."
+    },
+    {
+      "slug": "technology",
+      "name": "Technology",
+      "description": "Phones, AI, data privacy, and the internet in students' lives."
+    },
+    {
+      "slug": "environment",
+      "name": "Environment",
+      "description": "Air, water, flooding, and climate policy in the Houston region."
+    },
+    {
+      "slug": "transportation",
+      "name": "Transportation",
+      "description": "Roads, transit, and how students get to school and work."
+    },
+    {
+      "slug": "free-speech",
+      "name": "Free Speech",
+      "description": "Expression, the press, and protest on campus and beyond."
+    },
+    {
+      "slug": "housing",
+      "name": "Housing",
+      "description": "Rent, ownership, and the cost of living in Houston."
+    },
+    {
+      "slug": "healthcare",
+      "name": "Healthcare",
+      "description": "Coverage, mental health, and access to care for young people."
+    },
+    {
+      "slug": "local-government",
+      "name": "Local Government",
+      "description": "School boards, city council, and Harris County decisions close to home."
+    }
+  ]
+}
