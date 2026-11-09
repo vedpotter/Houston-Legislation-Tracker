@@ -26,8 +26,7 @@ export default function AboutPage() {
           <section aria-labelledby="what-h">
             <h2 id="what-h" className="text-2xl font-extrabold">What is Houston Legislation Tracker?</h2>
             <p className="mt-3 text-lg text-soft">
-              A student-created civic information project focused on legislation that affects Houston-area students and young people. We explain what a law does, why it matters to students, and what has happened since it passed.
-            </p>
+              My name is Ved Kulkarni, and I am a high school junior in Houston. For me, I have always noticed local legislation at the back end of media coverage. What surprised me initially was that policies that actually impacted me personally came from local officials, not national ones. With the Houston Legislation Tracker, I aim to break down local legislation that impacts high schoolers just like me here in Houston. Some state legislation that has broader implications to students overall will also be in my focus. I wanted to also actually find a means to hold politicians accountable - that's why I created the tracker, so every few months we could revisit specific policies and see how effective they have actually been. I want to create a way for students to easily understand what policies they need to worry about, not the overbearing national legislation that seemingly leaves behind students while overrepresenting older generations. In the Houston Legislation Tracker, we can actually hold the politicians who impact students accountable, at the local level.  
           </section>
 
           <section aria-labelledby="why-h">
