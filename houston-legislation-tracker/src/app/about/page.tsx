@@ -26,7 +26,7 @@ export default function AboutPage() {
           <section aria-labelledby="what-h">
             <h2 id="what-h" className="text-2xl font-extrabold">What is Houston Legislation Tracker?</h2>
             <p className="mt-3 text-lg text-soft">
-             hello my name is Ved
+             Hi, I’m Ved – I am a high school junior in Houston, and I have always been super interested in politics. As I’ve grown older and noticed how politics began to affect my own life, I realized it was often the local legislation, not the national ones, that were impacting students like me. I created the Houston Legislation Tracker not only to hold local politicians accountable for their own policies, but also to provide a real outlet for kids like me to know how politics is functionally shaping their lives. 
             </p>
           </section>
 
