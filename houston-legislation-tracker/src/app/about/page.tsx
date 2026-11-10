@@ -26,7 +26,7 @@ export default function AboutPage() {
           <section aria-labelledby="what-h">
             <h2 id="what-h" className="text-2xl font-extrabold">What is Houston Legislation Tracker?</h2>
             <p className="mt-3 text-lg text-soft">
-              A student-created civic information project focused on legislation that affects Houston-area students and young people. We explain what a law does, why it matters to students, and what has happened since it passed.
+             hello my name is Ved
             </p>
           </section>
 
